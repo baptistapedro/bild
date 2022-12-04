@@ -1,0 +1,5 @@
+project: bild
+target: bild
+
+cmds:
+  - cmd: /bild effect median --radius 1.5 @@ /dev/null/
